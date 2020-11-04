@@ -1,3 +1,4 @@
+# Author: Parker Swierzewski 
 import csv
 import keras
 import numpy
@@ -10,6 +11,7 @@ from PIL import Image
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
+
 
 IMAGE = []
 CLASS = []
