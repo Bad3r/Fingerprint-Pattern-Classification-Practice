@@ -1,0 +1,7 @@
+# Packages #
+############
+*.zip
+
+# dirs
+/Fingerprint/*
+/.vscode/*
